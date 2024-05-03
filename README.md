@@ -68,7 +68,7 @@
     <td>Subject term</td>
     <td>650</td>
     <td>_0</td>
-    <td>Computer software|xDevelopment</td>
+    <td>Computer software|xDevelopment.</td>
   </tr>
   <tr>
     <td>Subject term</td>
@@ -80,19 +80,25 @@
     <td>Subject term</td>
     <td>650</td>
     <td>_0</td>
-    <td>Knowledge management|xComputer programs</td>
+    <td>Knowledge management|xComputer programs.</td>
   </tr>
   <tr>
     <td>Subject term</td>
     <td>650</td>
     <td>_0</td>
-    <td>Open source software</td>
+    <td>Open source software.</td>
   </tr>
   <tr>
     <td>Subject term</td>
     <td>650</td>
     <td>_0</td>
-    <td>Librarians|zUnited States|vBiography</td>
+    <td>Web sites|xDesign.</td>
+  </tr>
+  <tr>
+    <td>Subject term</td>
+    <td>650</td>
+    <td>_0</td>
+    <td>Librarians|zUnited States|vBiography.</td>
   </tr>
   <tr>
     <td>Subject term</td>
