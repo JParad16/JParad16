@@ -1,6 +1,6 @@
 # | Label                 | Tag  | Ind. | Contents                                              |   
   | :---                  | :--- | :--- | :---                                                  |   
-**  | Fixed field data      | 008  |      | 970116s2024fla ez  haeng                         | **
+  | Fixed field data      | 008  |      | 970116s2024fla ez  haeng                              |
   | Personal Author       | 100  | 1    | Paradowski, Jordan Adela,                             |
   | Title                 | 245  | 10   | Welcome All! written by Jordan Paradowski             |
   | Edition               | 250  |      | First edition.                                        |
