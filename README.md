@@ -21,7 +21,7 @@
     <td>Title</td>
     <td>245</td>
     <td>10</td>
-    <td>Welcome to my GitHub! /|ccreated by Jordan Paradowski.</td>
+    <td>Welcome to my GitHub page! /|ccreated by Jordan Paradowski.</td>
   </tr>
   <tr>
     <td>Edition</td>
@@ -40,12 +40,42 @@
     <td>264</td>
     <td>_4</td>
     <td>©2024</td>
+ </tr>
+ <tr>
+    <td>Associated Place</td>
+    <td>370</td>
+    <td></td>
+    <td>Florida, United States</td>
+ </tr>
+ <tr>
+    <td>Field of Activity</td>
+    <td>372</td>
+    <td></td>
+    <td>Libraries|aCataloging</td>
+ </tr>
+ <tr>
+    <td>Occupation</td>
+    <td>374</td>
+    <td></td>
+    <td>Knowledge and Information Management Enthusiast</td>
+ </tr>
+ <tr>
+    <td>Associated Language</td>
+    <td>377</td>
+    <td></td>
+    <td>eng</td>
   </tr>
   <tr>
     <td>Form of Work</td>
     <td>380</td>
     <td></td>
     <td>/README</td>
+  </tr>
+  <tr>
+   <td>General Note</td>
+    <td>500</td>
+    <td></td>
+    <td>Need help reading this table? Find the MARC 21 Format for Authority Data and detailed descriptions of each data element <a href="https://www.loc.gov/marc/authority/">here!</a>
   </tr>
   <tr>
     <td>General Note</td>
