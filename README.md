@@ -10,14 +10,16 @@
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Label</th>
+    <th>Tag</th>
+    <th>Indicator</th>
+    <th>Contents</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Fixed field data</td>
+    <td>008</td>
+    <td></td>
+    <td>970116s2024fla ez  haeng</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
