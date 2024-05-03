@@ -10,24 +10,14 @@
 JParad16/JParad16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <TH NOWRAP ALIGN=RIGHT VALIGN=TOP>HEADING:</TH>
 <TD dir="ltr">
- Patterson, James</TD>
+ Paradowski, Jordan</TD>
 </TR>
 <TR>
 <TH NOWRAP ALIGN=RIGHT VALIGN=TOP>000</TH>
 <TD>
-01767cz  a2200325n  450</TD>
-</TR>
-<TR>
-<TH NOWRAP ALIGN=RIGHT VALIGN=TOP>001</TH>
-<TD>
-1954893</TD>
-</TR>
-<TR>
-<TH NOWRAP ALIGN=RIGHT VALIGN=TOP>005</TH>
-<TD>
-20141218080352.0</TD>
 </TR>
 <TR>
 <TH NOWRAP ALIGN=RIGHT VALIGN=TOP>008</TH>
