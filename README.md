@@ -60,10 +60,27 @@
     <td>Paradowski, Jordan Adela, 1997-</td>
   </tr>
   <tr>
+    <td>Personal subject</td>
+    <td>630</td>
+    <td>00</td>
+    <td>Git (Computer file)</td>
+  <tr>
     <td>Subject term</td>
     <td>650</td>
     <td>_0</td>
-    <td></td>
+    <td>Computer software|xDevelopment</td>
+  </tr>
+  <tr>
+    <td>Subject term</td>
+    <td>650</td>
+    <td>_0</td>
+    <td>Open source software</td>
+  </tr>
+  <tr>
+    <td>Subject term</td>
+    <td>650</td>
+    <td>_0</td>
+    <td>UI/UX Designers|zUnited States|vBiography.</td>
   </tr>
   <tr>
     <td>Subject term</td>
@@ -75,26 +92,12 @@
     <td>Subject term</td>
     <td>650</td>
     <td>_0</td>
-    <td></td>
-  </tr>
-  <tr>  </tr>
-  <tr>
-    <td>Subject term</td>
-    <td>650</td>
-    <td>_0</td>
-    <td></td>
+    <td>Librarians|zUnited States|vBiography</td>
   </tr>
   <tr>
     <td>Subject term</td>
     <td>650</td>
     <td>_0</td>
-    <td></td>
+    <td>Knowledge management|xComputer programs.</td>
   </tr>
-  <tr>
-    <td>Subject term</td>
-    <td>650</td>
-    <td>_0</td>
-    <td></td>
-  </tr>
-  <tr>
 </table>
