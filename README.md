@@ -15,7 +15,7 @@
     <td>Personal Author</td>
     <td>100</td>
     <td>1</td>
-    <td>Paradowski, Jordan Adela,</td>
+    <td>Paradowski, Jordan Adela, 1997- author.</td>
   </tr>
   <tr>
     <td>Title</td>
@@ -47,4 +47,54 @@
     <td></td>
     <td>/README</td>
   </tr>
+  <tr>
+    <td>Summary</td>
+    <td>520</td>
+    <td></td>
+    <td>"This GitHub account's current purpose is to allow me the freedom to learn and create small coding projects. These projects will be self-taught, but allow me to see my errors and how I went about making the correct changes. As of right now, I have very little experience in coding but hope to teach myself through interesting little projects and grow my knowledge in this area." --Provided by author.</td>
+  </tr>
+  <tr>
+    <td>Personal subject</td>
+    <td>600</td>
+    <td>00</td>
+    <td>Paradowski, Jordan Adela, 1997-</td>
+  </tr>
+  <tr>
+    <td>Subject term</td>
+    <td>650</td>
+    <td>_0</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Subject term</td>
+    <td>650</td>
+    <td>_0</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Subject term</td>
+    <td>650</td>
+    <td>_0</td>
+    <td></td>
+  </tr>
+  <tr>  </tr>
+  <tr>
+    <td>Subject term</td>
+    <td>650</td>
+    <td>_0</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Subject term</td>
+    <td>650</td>
+    <td>_0</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Subject term</td>
+    <td>650</td>
+    <td>_0</td>
+    <td></td>
+  </tr>
+  <tr>
 </table>
