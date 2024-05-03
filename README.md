@@ -21,7 +21,7 @@
     <td>Title</td>
     <td>245</td>
     <td>10</td>
-    <td>Welcome All! created by Jordan Paradowski</td>
+    <td>Welcome to my GitHub! created by Jordan Paradowski</td>
   </tr>
   <tr>
     <td>Edition</td>
@@ -60,7 +60,7 @@
     <td>Paradowski, Jordan Adela, 1997-</td>
   </tr>
   <tr>
-    <td>Personal subject</td>
+    <td>Title subject</td>
     <td>630</td>
     <td>00</td>
     <td>Git (Computer file)</td>
@@ -74,19 +74,19 @@
     <td>Subject term</td>
     <td>650</td>
     <td>_0</td>
+    <td>Information storage and retrieval systems|xArchitecture.</td>
+  </tr>
+  <tr>
+    <td>Subject term</td>
+    <td>650</td>
+    <td>_0</td>
+    <td>Knowledge management|xComputer programs</td>
+  </tr>
+  <tr>
+    <td>Subject term</td>
+    <td>650</td>
+    <td>_0</td>
     <td>Open source software</td>
-  </tr>
-  <tr>
-    <td>Subject term</td>
-    <td>650</td>
-    <td>_0</td>
-    <td>UI/UX Designers|zUnited States|vBiography.</td>
-  </tr>
-  <tr>
-    <td>Subject term</td>
-    <td>650</td>
-    <td>_0</td>
-    <td></td>
   </tr>
   <tr>
     <td>Subject term</td>
@@ -98,6 +98,6 @@
     <td>Subject term</td>
     <td>650</td>
     <td>_0</td>
-    <td>Knowledge management|xComputer programs.</td>
+    <td>UI/UX Designers|zUnited States|vBiography.</td>
   </tr>
 </table>
