@@ -1,6 +1,3 @@
-# | Label                 | Tag  | Ind. | Contents                                              |   
-  | :---                  | :--- | :--- | :---                                                  |   
-  | Fixed field data      | 008  |      | 970116s2024fla ez  haeng                              |
   | Personal Author       | 100  | 1    | Paradowski, Jordan Adela,                             |
   | Title                 | 245  | 10   | Welcome All! written by Jordan Paradowski             |
   | Edition               | 250  |      | First edition.                                        |
@@ -22,8 +19,13 @@
     <td>970116s2024fla ez  haeng</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Personal Author</td>
+    <td>100</td>
+    <td>1</td>
+    <td>Paradowski, Jordan Adela,</td>
   </tr>
+     <td>Centro comercial Moctezuma</td>
+     <td>Francisco Chang</td>
+     <td>Mexico</td>
+   </tr>
 </table>
