@@ -33,7 +33,7 @@
     <td>Production, Publication, Copyright Notice</td>
     <td>264</td>
     <td>_1</td>
-    <td>Florida : github, 2024</td>
+    <td>Florida : GitHub, 2024</td>
   </tr>
   <tr>
     <td>Production, Publication, Copyright Notice</td>
