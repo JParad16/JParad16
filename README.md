@@ -9,19 +9,19 @@
     <td>Fixed field data</td>
     <td>008</td>
     <td></td>
-    <td>970116s2024fla ez  haeng</td>
+    <td>970116t20242024fla e    aeng </td>
   </tr>
   <tr>
     <td>Personal Author</td>
     <td>100</td>
     <td>1</td>
-    <td>Paradowski, Jordan Adela, 1997- author.</td>
+    <td>Paradowski, Jordan Adela,|d1997-|eauthor.</td>
   </tr>
   <tr>
     <td>Title</td>
     <td>245</td>
     <td>10</td>
-    <td>Welcome to my GitHub! created by Jordan Paradowski</td>
+    <td>Welcome to my GitHub! /|ccreated by Jordan Paradowski.</td>
   </tr>
   <tr>
     <td>Edition</td>
@@ -33,7 +33,7 @@
     <td>Production, Publication, Copyright Notice</td>
     <td>264</td>
     <td>_1</td>
-    <td>Florida : GitHub, 2024</td>
+    <td>Florida :|bGitHub,|c2024.</td>
   </tr>
   <tr>
     <td>Production, Publication, Copyright Notice</td>
@@ -48,6 +48,17 @@
     <td>/README</td>
   </tr>
   <tr>
+    <td>General Note</td>
+    <td>500</td>
+    <td></td>
+    <td><a href="https://japaradowski97.wixsite.com/jp-portfolio">My e-Portfolio from my Master's of Library and Information Science program</a></td>
+  </tr>
+  <tr>
+    <td>General Note</td>
+    <td>500</td>
+    <td></td>
+    <td><a href="https://xxxxxxxxxx">My UI/UX Design portfolio</a></td>
+  <tr>
     <td>Summary</td>
     <td>520</td>
     <td></td>
@@ -57,7 +68,7 @@
     <td>Personal subject</td>
     <td>600</td>
     <td>00</td>
-    <td>Paradowski, Jordan Adela, 1997-</td>
+    <td>Paradowski, Jordan Adela,|d1997-</td>
   </tr>
   <tr>
     <td>Title subject</td>
