@@ -1,3 +1,10 @@
+{
+    "label_colors": {
+        "Girls": "#FF69B4",
+        "Boys": "#ADD8E6"
+    }
+}
+
 <table>
   <tr>
     <th>Label</th>
