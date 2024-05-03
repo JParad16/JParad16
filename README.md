@@ -1,5 +1,3 @@
-  | Form of Work          | 380  |      | /README                                               |
-
 <table>
   <tr>
     <th>Label</th>
@@ -34,13 +32,13 @@
   <tr>
     <td>Production, Publication, Copyright Notice</td>
     <td>264</td>
-    <td> 1</td>
+    <td>_1</td>
     <td>Florida : github, 2024</td>
   </tr>
   <tr>
     <td>Production, Publication, Copyright Notice</td>
     <td>264</td>
-    <td> 4</td>
+    <td>_4</td>
     <td>©2024</td>
   </tr>
   <tr>
